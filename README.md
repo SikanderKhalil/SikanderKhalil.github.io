@@ -1,5 +1,4 @@
 <HEAD>TESTING GROUNDS</HEAD>
-<TITLE>DAVE</TITLE>
 <BODY>This is a test on how the website will look</BODY>
 <CENTER>The IRON AGE</CENTER>
 <H1>MY WEBSITE</H1>

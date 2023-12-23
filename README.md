@@ -1,6 +1,12 @@
-<HEAD>TESTING GROUNDS</HEAD>
-<BODY>This is a test on how the website will look</BODY>
-<CENTER>The IRON AGE</CENTER>
-<H1>MY WEBSITE</H1>
-<P>ARCHAEOLOGY</P>
-<HTML>HMM</HTML>
+<!DOCTYPE html>
+<html>
+<head>
+<title>ARC TEST</title>
+</head>
+<body>
+
+<h1>This is a test</h1>
+<p>Is my brother fat?</p>
+
+</body>
+</html>

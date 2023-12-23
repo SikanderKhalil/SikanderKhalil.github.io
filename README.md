@@ -1,11 +1,10 @@
 <html>
 <head>
-<title>ARC TEST</title>
+<title>Archeaological artifacts</title>
 </head>
 <body>
 
-<h1>This is a test</h1>
-<p>Is my brother fat?</p>
-
+<h1>A Relic from the past</h1>
+<p>This artifact was found to be 20000 years old</p>
 </body>
 </html>

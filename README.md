@@ -1,5 +1,4 @@
 <html>
-<link rel="stylesheet" href="SikanderKhalil.github.io/css/style.css">
 <head>
 <title>Archeaological artifacts</title>
 </head>

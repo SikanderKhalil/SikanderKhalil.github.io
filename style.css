@@ -1,11 +1,9 @@
-<html>
-<head>
-  <style>
-    p { color: red; }
-  </style>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: violet;
+}
+p {
+  color: red
+}

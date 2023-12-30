@@ -1,7 +1,7 @@
 <html>
 <CSS>
 <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
 <title>Archeaological artifacts</title>
 </head>
 <body style="backgroundcolor:powderblue;">

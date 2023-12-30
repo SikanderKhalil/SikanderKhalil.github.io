@@ -19,8 +19,9 @@
   
  did you find this?
 </pre>
-<h4 style="backgroundcolor🍅;">The Plot thickens</h4>
+<h4 style="backgroundcolor:tomato;">The Plot thickens</h4>
 <p style="backgroundcolor:tomato;">The Mug contains a ghost!!!</p>
+<h5 style="color:blue;">A Blue Heading</h5>
 </body>
 </CSS>
 </html>

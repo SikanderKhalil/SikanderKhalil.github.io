@@ -7,6 +7,7 @@
 <h1>A Relic from the past</h1>
 <p>This artifact was found to be 20000 years old</p>
 <p>It is composed of a mug and a jar filled with iron and emeralds</p>
+<p><b>A Yes the negotiator</b></p>
 <hr>
 <h2>The location of this item is shocking</h2>
 <p>It was present within a volcano with the following name:<br>Jeff.</p>

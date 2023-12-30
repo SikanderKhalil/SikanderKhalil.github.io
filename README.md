@@ -17,5 +17,7 @@
   
  did you find this?
 </pre>
+<h4 style="backgroundcolor🍅;">The Plot thickens</h4>
+<p style="backgroundcolor:tomato;">The Mug contains a ghost!!!</p>
 </body>
 </html>

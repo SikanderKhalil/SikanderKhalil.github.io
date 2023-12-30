@@ -1,4 +1,5 @@
 <html>
+<CSS>
 <head>
 <title>Archeaological artifacts</title>
 </head>
@@ -21,4 +22,5 @@
 <h4 style="backgroundcolor🍅;">The Plot thickens</h4>
 <p style="backgroundcolor:tomato;">The Mug contains a ghost!!!</p>
 </body>
+</CSS>
 </html>

@@ -1,6 +1,8 @@
 body {
   background-color: powderblue;
 }
+table, th, td {
+  border:1px solid red
 h1 {
   color: violet;
 }

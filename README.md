@@ -23,6 +23,23 @@
 <h4 style="backgroundcolor:tomato;">The Plot thickens</h4>
 <p style="backgroundcolor:tomato;">The Mug contains a ghost!!!</p>
 <h5 style="color:blue;">A Blue Heading</h5>
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Location</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Cup of power</td>
+        <td>China</td>
+        <td>A powerful cup</td>
+    </tr>
+    <tr>
+        <td>Frozen mallet</td>
+        <td>Iceland</td>
+        <td>Very cold</td>
+    </tr>
+</table>
 </body>
 </CSS>
 </html>

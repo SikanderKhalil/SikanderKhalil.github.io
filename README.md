@@ -32,7 +32,7 @@
     <tr>
         <td>Cup of power</td>
         <td>China</td>
-        <td>A powerful cup</td>
+        <td><img src="https://images.app.goo.gl/14F7jQbQZwp2L5Z57"></td>
     </tr>
     <tr>
         <td>Frozen mallet</td>

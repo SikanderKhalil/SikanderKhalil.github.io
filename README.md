@@ -32,7 +32,7 @@
     <tr>
         <td>Cup of power</td>
         <td>China</td>
-        <td><<img width="375" alt="image" src="https://github.com/SikanderKhalil/SikanderKhalil.github.io/assets/140323023/ad0fa525-8a0d-41df-b4e0-0795eb3d8f6d"></td>
+        <td><img width="140" alt="image" src="https://github.com/SikanderKhalil/SikanderKhalil.github.io/assets/140323023/d9c3b585-a8c7-43bd-a747-3e50b1a31a1f"></td>
     </tr>
     <tr>
         <td>Frozen mallet</td>

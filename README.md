@@ -32,7 +32,7 @@
     <tr>
         <td>Cup of power</td>
         <td>China</td>
-        <td><img src="file:///C:/Users/Laptop/OneDrive/Pictures/atom.JPG" alt="Flowers in Chania"></td>
+        <td><img src="Cup of Power" alt="Flowers in Chania"></td>
     </tr>
     <tr>
         <td>Frozen mallet</td>

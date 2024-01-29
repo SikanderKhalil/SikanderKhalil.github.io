@@ -2,17 +2,17 @@
 <CSS>
 <head>
     <link rel="stylesheet" href="styles.css">
-<title>Archeaological artifacts</title>
+<title>Archeaological Artifacts</title>
 </head>
 <body style="backgroundcolor:powderblue;">
 
-<h1>A Relic from the past</h1>
-<p>This <del>mug</del> artifact was found to be 20000 years old</p>
+<h1>A Relic From The Past</h1>
+<p>This <del>mug</del> Artifact was found to be 2000 years old</p>
 <p>It is composed of a mug and a jar filled with iron, H<sub>2</sub>O and emeralds</p>
-<p><b><i>Ahh Yes the negotiator</i></b></p>
+<p><b><i>It has a symbol which looks like a deer</i></b></p>
 <hr>
 <h2>The location of this item is shocking</h2>
-<p>It was present within a volcano with the following name:<br>Jeff.</p>
+<p>It was present within a volcano with the following name:<br>Mount Doom</p>
 <h3>The poem on the jar</h3>
 <p>It stated:</p>
 <pre>

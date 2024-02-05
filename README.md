@@ -1,44 +1,74 @@
 <html>
 <CSS>
 <head>
-    <link rel="stylesheet" href="styles.css">
-<title>Archeaological Artifacts</title>
-</head>
-<body style="backgroundcolor:powderblue;">
+ <link rel="stylesheet" href="styles.css">
+ <title>Insert name here</title>
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
-<h1>A Relic From The Past</h1>
-<p>This <del>mug</del> Artifact was found to be 2000 years old</p>
-<p>It is composed of a mug and a jar filled with iron, H<sub>2</sub>O and emeralds</p>
-<p><b><i>It has a symbol which looks like a deer</i></b></p>
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+</style>
+</head>
+<body>
+<h1>Insert Subtitle here</h1>
 <hr>
-<h2>The location of this item is shocking</h2>
-<p>It was present within a volcano with the following name:<br>Mount Doom</p>
-<h3>The poem on the jar</h3>
-<p>It stated:</p>
-<pre>
-  Damn son where,
-  
- did you find this?
-</pre>
-<h4 style="backgroundcolor:tomato;">The Plot thickens</h4>
-<p style="backgroundcolor:tomato;">The Mug contains a ghost!!!</p>
-<h5 style="color:blue;">A Blue Heading</h5>
+<h2>Object 1:[Insert name here]</h2>
 <table>
-    <tr>
-        <th>Item</th>
-        <th>Location</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td>Cup of power</td>
-        <td>China</td>
-        <td><img width="140" alt="image" src="https://github.com/SikanderKhalil/SikanderKhalil.github.io/assets/140323023/d9c3b585-a8c7-43bd-a747-3e50b1a31a1f"></td>
-    </tr>
-    <tr>
-        <td>Frozen mallet</td>
-        <td>Iceland</td>
-        <td>Very cold</td>
-    </tr>
+<tr>
+<th>Image</th>
+<th>Description</th>
+<th>Location</th>
+<th>Analysis</th>
+</tr>
+<tr>
+<td>img src="[Insert Image here]" alt="[alternate description of the image]" width="500" height="500"</td>
+<td><p>[Describe the Item here]<p></td>
+<td><p>[Talk about the location here]<p></td>
+<td><p>[Analyse the item here]<p><td>
+</tr>
+</table>
+<hr>
+<h2>Object 2:[Insert name here]</h2>
+<table>
+<tr>
+<th>Image</th>
+<th>Description</th>
+<th>Location</th>
+<th>Analysis</th>
+</tr>
+<tr>
+<td>img src="[Insert Image here]" alt="[alternate description of the image]" width="500" height="500"</td>
+<td><p>[Describe the Item here]<p></td>
+<td><p>[Talk about the location here]<p></td>
+<td><p>[Analyse the item here]<p><td>
+</tr>
+</table>
+<hr>
+<h2>Object 3:[Insert name here]</h2>
+<table>
+<tr>
+<th>Image</th>
+<th>Description</th>
+<th>Location</th>
+<th>Analysis</th>
+</tr>
+<tr>
+<td>img src="[Insert Image here]" alt="[alternate description of the image]" width="500" height="500" </td>
+<td><p>[Describe the Item here]<p></td>
+<td><p>[Talk about the location here]<p></td>
+<td><p>[Analyse the item here]<p><td>
+</tr>
 </table>
 </body>
 </CSS>

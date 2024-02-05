@@ -38,7 +38,6 @@ tr:nth-child(even) {
 <td><p>[Analyse the item here]<p><td>
 </tr>
 </table>
-<hr>
 <h2>Object 2:[Insert name here]</h2>
 <table>
 <tr>
@@ -54,7 +53,6 @@ tr:nth-child(even) {
 <td><p>[Analyse the item here]<p><td>
 </tr>
 </table>
-<hr>
 <h2>Object 3:[Insert name here]</h2>
 <table>
 <tr>

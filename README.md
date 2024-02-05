@@ -4,21 +4,6 @@
  <link rel="stylesheet" href="styles.css">
  <title>Insert name here</title>
  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-</style>
 </head>
 <body>
 <h1>Insert Subtitle here</h1>

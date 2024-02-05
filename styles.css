@@ -1,19 +1,16 @@
 body {
   background-color: powderblue;
 }
-table, th, td {
-  border:1px solid red
+table {
+  border-collapse: collapse;
+  width: 100%;
 }
-h1 {
-  color: violet;
+
+th, td {
+  text-align: left;
+  padding: 8px;
 }
-p {
-  border: 2px solid red;
-  color: red
-}
-h2 {
-  background-color: red;
-}
-h3 {
-  color: green;
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
 }

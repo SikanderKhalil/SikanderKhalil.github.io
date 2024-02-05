@@ -18,9 +18,9 @@
 </tr>
 <tr>
 <td>img src="[Insert Image here]" alt="[alternate description of the image]" width="500" height="500"</td>
-<td><p>[Describe the Item here]<p></td>
-<td><p>[Talk about the location here]<p></td>
-<td><p>[Analyse the item here]<p><td>
+<td><p>[Describe the Item here]</p></td>
+<td><p>[Talk about the location here]</p></td>
+<td><p>[Analyse the item here]</p></td>
 </tr>
 </table>
 </body>
@@ -35,9 +35,9 @@
 </tr>
 <tr>
 <td>img src="[Insert Image here]" alt="[alternate description of the image]" width="500" height="500"</td>
-<td><p>[Describe the Item here]<p></td>
-<td><p>[Talk about the location here]<p></td>
-<td><p>[Analyse the item here]<p><td>
+<td><p>[Describe the Item here]</p></td>
+<td><p>[Talk about the location here]</p></td>
+<td><p>[Analyse the item here]</p></td>
 </tr>
 </table>
 </body>
@@ -52,9 +52,9 @@
 </tr>
 <tr>
 <td>img src="[Insert Image here]" alt="[alternate description of the image]" width="500" height="500" </td>
-<td><p>[Describe the Item here]<p></td>
-<td><p>[Talk about the location here]<p></td>
-<td><p>[Analyse the item here]<p><td>
+<td><p>[Describe the Item here]</p></td>
+<td><p>[Talk about the location here]</p></td>
+<td><p>[Analyse the item here]</p></td>
 </tr>
 </table>
 </body>

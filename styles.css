@@ -1,16 +1,12 @@
-body {
-  background-color: powderblue;
+* {
+    padding: 0;
+    margin: 0;
+    background: blue;
 }
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #D6EEEE;
+.comment-box {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    
 }
